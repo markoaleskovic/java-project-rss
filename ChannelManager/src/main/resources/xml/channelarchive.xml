@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channelarchive>
+    <channels>
+        <channel id="2">
+            <title>Kellogg's, Coca-Cola and Brewdog beer on Russian shelves despite sanctions</title>
+            <description>Ivor Bennett Russia imports story</description>
+            <enclosure>assets\2eb1e89c-b5ee-497f-8f5d-c1f1e1f40c7f.jpg</enclosure>
+            <link>https://news.sky.com/story/kelloggs-coca-cola-and-brewdog-beer-on-russian-shelves-despite-sanctions-13385079</link>
+        </channel>
+        <channel id="11">
+            <title>We are witnessing Trump's extreme version of maximum pressure diplomacy in real-time</title>
+            <description>#39; Summit.
+Pic Reuters</description>
+            <enclosure>assets\0fc0047a-9deb-432c-9547-86e206f68ab7.jpg</enclosure>
+            <link>https://news.sky.com/story/trumps-words-designed-to-stoke-tension-confuse-and-apply-intense-pressure-on-iran-13385097</link>
+        </channel>
+        <channel id="18">
+            <title>Labour MPs threaten rebellion over benefit cuts for millions</title>
+            <description>File photo dated 21/11/06 of a patient in a wheelchair</description>
+            <enclosure>assets\d714ba47-f40c-4b03-9900-3e8e53ddba84.jpg</enclosure>
+            <link>https://news.sky.com/story/battle-to-convince-mps-to-back-benefit-cuts-to-more-than-three-million-households-13385195</link>
+        </channel>
+        <channel id="24">
+            <title>Elon Musk posts 'drug test results'</title>
+            <description>Elon Musk looks on as President Donald Trump meets South African President Cyril Ramaphosa in the Oval Office of the White House, Wednesday, May 21, 2025, in Washington. (AP Photo/Evan Vucci)</description>
+            <enclosure>assets\f5556b1c-c8a6-4a32-96cb-e23a864cf83e.jpg</enclosure>
+            <link>https://news.sky.com/story/elon-musk-shares-drug-test-results-13385035</link>
+        </channel>
+    </channels>
+</channelarchive>
