@@ -3,7 +3,7 @@ A Java Swing desktop application for aggregating, parsing, and managing RSS feed
 
 # Academic Context
 
-This project was developed as a coursework assignment for Advanced Java Programming course, demonstrating proficiency in:
+This project was developed as a coursework assignment for Java Programming 1 course, demonstrating proficiency in:
 
 - Object-oriented programming principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
 - Functional programming paradigms (lambdas, streams, functional interfaces)
